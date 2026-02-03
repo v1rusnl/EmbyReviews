@@ -122,7 +122,7 @@
 		
 		if (countryCode) {
 			// Using flagcdn.com for SVG flags
-			return `<img class="emby-review-flag" src="https://flagcdn.com/w20/${countryCode}.png" srcset="https://flagcdn.com/w40/${countryCode}.png 2x" alt="${countryCode}" loading="lazy">`;
+			return `<img class="emby-review-flag" src="https://flagcdn.com/w40/${countryCode}.png" srcset="https://flagcdn.com/w80/${countryCode}.png 2x" alt="${countryCode}" loading="lazy">`;
 		}
 		
 		return '<span class="emby-review-flag-fallback">🌐</span>';
