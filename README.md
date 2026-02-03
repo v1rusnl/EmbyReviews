@@ -3,7 +3,7 @@
 
 A TMDB Review section for Emby Media Server
 
-<img width="500" alt="Screenshot 2026-02-03 191039" src="https://github.com/user-attachments/assets/9d12c13f-26ff-4f4e-852f-bfbdc745dba8" />
+<img width="1000" alt="Screenshot 2026-02-03 191039" src="https://github.com/user-attachments/assets/9d12c13f-26ff-4f4e-852f-bfbdc745dba8" />
 
 
 
