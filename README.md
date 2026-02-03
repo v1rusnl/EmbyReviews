@@ -11,7 +11,7 @@ A TMDB Review section for Emby Media Server
 - This is vibe-coded with the help of Claude Opus 4.5 and just a proof of concept
 - Tested with stable Server 4.9.X.X on a 1080p-Screen
 - This Banner just works on the Web Client
-- Big thanks to @Druidblack for the ratings codebase (https://github.com/Druidblack/jellyfin_ratings)
+- Big thanks to @n00bcoder for the ratings codebase (https://github.com/n00bcodr/Jellyfin-Enhanced
 
 
 ## Installation
